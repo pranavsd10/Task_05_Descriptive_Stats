@@ -13,11 +13,9 @@ For this task, I used the official 2025 season statistics for the **Syracuse Wom
 
 - **Team:** Syracuse Women’s Lacrosse
 - **Season:** 2025
-- **Source:** Official athletics PDF (not included in repo)
+- **Source:** Official athletics PDF 
 - **Type:** Team stats (games, scores, goals per period, shots, saves)
 - **Total Games:** 19
-
-*Note: The dataset was not uploaded to GitHub as per task requirements.*
 
 ---
 
@@ -38,7 +36,7 @@ I asked 10 progressively challenging questions:
 
 Some LLM responses were intentionally incorrect. I documented the incorrect answers and provided **revised prompts** to correct them, showcasing the process of prompt refinement.
 
-👉 See `llm_prompts.md` for full Q&A with prompt engineering examples.
+👉 See `LLM_prompts.md` for full Q&A with prompt engineering examples.
 
 ---
 
@@ -56,19 +54,5 @@ Some LLM responses were intentionally incorrect. I documented the incorrect answ
 ```
 ├── llm_prompts.md       # Full Q&A with LLM, including wrong/right answers
 ├── README.md            # This file
-├── stats_analysis.py    # (Optional) Python script for basic stats (not used here)
-└── visuals/             # (Optional) Visuals folder for charts (not used here)
 ```
 
----
-
-## ✅ Submission Details
-
-- **Submitted to:** jrstrome@syr.edu
-- **GitHub Repo Name:** Task_05_Descriptive_Stats
-- **Progress Reports:**  
-  - July 31 via Qualtrics  
-  - August 15 via Qualtrics  
-  [Qualtrics Reporting Link](https://syracuseuniversity.qualtrics.com/jfe/form/SV_cDgnzM695AMx8d8)
-
----
