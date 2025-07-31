@@ -11,7 +11,7 @@ Syracuse played 19 games during the 2025 season.
 ❌ Initial Response:  
 Syracuse won 6 games at home and 3 games away.
 
-✅ Revised Prompt:  
+Revised Prompt:  
 "Check the 'RECORD' section in the dataset and list Syracuse’s win-loss record separately for home and away games."
 
 ✅ Correct Response:  
@@ -31,7 +31,7 @@ Syracuse scored 235 goals and conceded 221 goals during the 2025 season.
 ❌ Initial Response:  
 Syracuse scored the most goals in the 4th period.
 
-✅ Revised Prompt:  
+Revised Prompt:  
 “Use the 'Goals by Period' section to compare goals scored by Syracuse in each period and identify the highest-scoring one.”
 
 ✅ Correct Response:  
@@ -58,7 +58,7 @@ Syracuse averaged 12.37 goals per game (235 ÷ 19), while opponents averaged 11.
 ❌ Initial Response:  
 Syracuse won more non-conference games than conference games.
 
-✅ Revised Prompt:  
+Revised Prompt:  
 “Compare Syracuse’s win-loss records in conference and non-conference games and determine which had a higher win percentage.”
 
 ✅ Correct Response:  
@@ -78,7 +78,7 @@ Syracuse should prioritize improving defense. Although their offense scored slig
 ❌ Initial Response:  
 The closest win was against Virginia Tech with a score of 11–14.
 
-✅ Revised Prompt:  
+Revised Prompt:  
 “From the game results, identify the smallest positive margin of victory and provide the opponent and score.”
 
 ✅ Correct Response:  
